@@ -137,5 +137,3 @@ dmypy.json
 Thumbs.db
 
 # Project specific
-config/*.yaml
-!config/default.yaml
