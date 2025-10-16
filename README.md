@@ -16,8 +16,6 @@
 
 > **B站演示视频**: [streamlit操作飞书多维表格](https://www.bilibili.com/video/BV1ENWvzgEWp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e1df3d2ad3abe9ed72bc71836ee22ac9)
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=115382987850863&bvid=BV1ENWvzgEWp&cid=33120650785&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
 
 *💡 提示：*
 
