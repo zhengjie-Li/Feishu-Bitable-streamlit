@@ -2,9 +2,19 @@
 
 > 基于飞书(Lark)多维表格的接口解决方案
 
-🎯 项目简介
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Lark](https://img.shields.io/badge/Platform-Lark-orange.svg)](https://www.feishu.cn/)
+
+## 🎯 项目简介
 
 基于 Streamlit 构建的飞书多维表格 CRUD 操作前端界面，提供直观易用的数据管理和分析功能。
+
+## 🎬 功能演示
+
+> 📹 **操作演示视频**: [streamlit操作飞书多维表格.mov](./streamlit操作飞书多维表格.mov)
+
+*注：如果您在GitHub上查看此文档，可以下载视频文件到本地观看完整的操作演示。*
 
 - 📊 **可视化数据管理**: 通过现代化 Web 界面管理飞书表格数据
 - 🔧 **字段动态管理**: 在线创建、编辑、删除表格字段，无需编程

@@ -1,0 +1,19 @@
+api_base_url: https://base-api.feishu.cn
+app_token: 12
+batch_size: 10
+concurrent_limit: 3
+config_table_id: 12
+domain: https://base-api.feishu.cn
+enable_assertions: true
+enable_rich_logging: true
+fail_fast: false
+log_level: INFO
+max_response_length: 5000
+max_retries: 5
+personal_token: pt-12
+request_delay: 0.5
+request_timeout: 60
+retry_delay: 2.0
+table_id: 12
+user_agent: lark-api-tester/1.0.0 (production)
+validate_ssl: true
